@@ -1,0 +1,12 @@
+PROJETO: FarmTech Solutions
+
+LINK DO VÍDEO:
+SUBSTITUIR_PELO_LINK_REAL_DO_YOUTUBE
+
+CONFIGURAÇÃO DO VÍDEO:
+- Visibilidade: Não listado
+- Duração máxima: 5 minutos
+
+DESCRIÇÃO:
+Demonstração da aplicação Python, da análise estatística em R e da consulta
+meteorológica realizada em R por meio da API pública Open-Meteo.
